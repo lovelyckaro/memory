@@ -126,6 +126,7 @@ def reset():
 
 
 main = Tk()
+main.wm_title("Memory")
 
 #skapa en lista med två kort för varje bild
 cardlist = []
